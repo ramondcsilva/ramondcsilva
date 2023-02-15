@@ -1,7 +1,7 @@
 ### Hi, Ramon Silva here,
 
-- 🧑‍💼 I'm currently working database management and backend development.
-- 🧑‍💻 I’m currently learning javascript frameworks.
+- 🧑‍💼 I'm currently working frontend and backend development.
+- 🧑‍💻 I’m currently learning Angular and Java.
 - 🧑‍🎓 I’m currently studyng Computer engineering at UEFS.
 
 ##
