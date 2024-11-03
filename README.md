@@ -1,8 +1,8 @@
 ### Hi, Ramon Silva here,
 
+- 🧑‍🎓 Computer Engineer at UEFS.
 - 🧑‍💼 I'm currently working frontend and backend development.
 - 🧑‍💻 I’m currently learning Angular and Java.
-- 🧑‍🎓 I’m currently studyng Computer engineering at UEFS.
 
 ##
 
